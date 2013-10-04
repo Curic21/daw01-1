@@ -43,6 +43,7 @@ public class grupoJacobo extends HttpServlet {
             out.println("<a href=\"jSegovia.jsp\">Jacobo Segovia</a><br/>");
             out.println("<a href=\"Enrique.jsp\">Enrique Gimeno</a><br/>");
             out.println("<a href=\"adrian.jsp\">Enrique Gimeno</a><br/>");
+            out.println("<a href=\"JordiEslava.jsp\">Jordi Eslava</a><br/>");
             out.println("</body>");
             out.println("</html>");
         } finally {            
